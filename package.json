@@ -1,0 +1,38 @@
+{
+  "name": "jlmakes",
+  "version": "0.1.0",
+  "description": "As I peered into the shard, it began melting... gripping me.",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlmakes/jlmakes.git"
+  },
+  "keywords": [
+    "2d",
+    "html",
+    "canvas",
+    "particle",
+    "animation",
+    "javascript",
+    "typescript"
+  ],
+  "author": "Julian Lloyd",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/jlmakes/jlmakes/issues"
+  },
+  "homepage": "https://github.com/jlmakes/jlmakes#readme",
+  "devDependencies": {
+    "cssnano": "^4.0.5",
+    "parcel-bundler": "^1.9.7",
+    "typescript": "^3.0.1"
+  },
+  "dependencies": {
+    "autoprefixer": "^9.1.1",
+    "miniraf": "^1.0.1",
+    "node-sass": "^4.9.3",
+    "tealight": "^0.3.6"
+  }
+}
