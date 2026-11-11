@@ -1,3 +1,3 @@
-<p>Made with <a href="https://jlmakes.now.sh" title="J.L. Makes">
-	<img src="http://i.imgur.com/oXJmdtz.gif" alt="Cute Floating Heart"></a> by <a href="https://twitter.com/jlmakes">@jlmakes</a>
+<p>Made with <a href="https://jlmakes.vercel.app" title="J.L. Makes">
+	<img src="http://i.imgur.com/oXJmdtz.gif" alt="Cute Floating Heart"></a> by Julian Lloyd
 </p>
